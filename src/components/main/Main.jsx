@@ -3,7 +3,7 @@ import "./Main.css";
 import { BsFillSendPlusFill } from "react-icons/bs";
 import { TbCancel } from "react-icons/tb";
 import { MdOutlineCreateNewFolder } from "react-icons/md";
-import { use } from "react";
+
 const Main = () => {
   // state
   const [open, setOpen] = useState(false);
